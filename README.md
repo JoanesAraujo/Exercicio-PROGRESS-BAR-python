@@ -20,11 +20,11 @@ Utilizei minha base de dados de cep de Recife para leitura e mostrei apenas o: c
 
 Imagens:
 
-<img img align="center" width="650" src="">
+<img img align="center" width="650" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/JSON-PYTHON/print_1.png">
 
-<img img align="center" width="650" src="">
+<img img align="center" width="650" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/JSON-PYTHON/print_2.png">
 
-<img img align="center" width="650" src="">
+<img img align="center" width="650" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/JSON-PYTHON/print_3.png">
 
 
 
